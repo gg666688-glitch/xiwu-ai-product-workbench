@@ -1,0 +1,14 @@
+{
+  "name": "xiwu-ai-product-workbench",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "description": "析物 · AI 产品拆解工作台：无第三方依赖的本地源码导出",
+  "engines": {
+    "node": ">=22"
+  },
+  "scripts": {
+    "start": "node scripts/serve.mjs",
+    "test": "node verify.mjs"
+  }
+}

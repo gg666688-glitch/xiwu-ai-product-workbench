@@ -1,0 +1,130 @@
+{
+  "project": "析物 · AI 产品拆解工作台",
+  "exportDate": "2026-11-10",
+  "timezone": "Asia/Shanghai",
+  "source": {
+    "projectId": "appgprj_6ad1c1fa60d881919343efe896dbce38",
+    "siteVersion": 1,
+    "commit": "68e691ecd3944a2033bc7e170292e7b50f812cf1"
+  },
+  "originalFiles": [
+    {
+      "sourcePath": ".openai/hosting.json",
+      "exportPath": ".openai/hosting.json",
+      "sha256": "6e2f417fbad3ffea03baffd1a67601138dccbfe51103680375b5472c5c5d12d5",
+      "bytes": 104
+    },
+    {
+      "sourcePath": "README.md",
+      "exportPath": "docs/ORIGINAL_README.md",
+      "sha256": "94e5728ef6052cd2812c85b7fd5a61dfcceca727c2fc71487317025a2c4e156b",
+      "bytes": 1175
+    },
+    {
+      "sourcePath": "dist/app.mjs",
+      "exportPath": "dist/app.mjs",
+      "sha256": "ce3941e9f296c1def6242c14da02ea0a9eab84b13403afe586442dbf66c39a2b",
+      "bytes": 24872
+    },
+    {
+      "sourcePath": "dist/core.mjs",
+      "exportPath": "dist/core.mjs",
+      "sha256": "9a24b90c42ca8a895965783808ea62175e6c9aa4227954f2f25636ac562035b8",
+      "bytes": 8340
+    },
+    {
+      "sourcePath": "dist/index.html",
+      "exportPath": "dist/index.html",
+      "sha256": "7f1680c6a97108786e2d4e548a2fa9e20b8137e0c5d2e78598e62e012161db4f",
+      "bytes": 2659
+    },
+    {
+      "sourcePath": "dist/style.css",
+      "exportPath": "dist/style.css",
+      "sha256": "9a7d84698378ef66b4f3c9a74db4964c8958dbb10f468fd2d83cbb5fbbc8d6df",
+      "bytes": 22566
+    },
+    {
+      "sourcePath": "verify.mjs",
+      "exportPath": "verify.mjs",
+      "sha256": "4e9c5d1fd0e711c43d57d77fc2d2b1743356774d55f25aec82523ed9fabf4aac",
+      "bytes": 7600
+    }
+  ],
+  "files": [
+    {
+      "path": ".gitignore",
+      "bytes": 560,
+      "sha256": "bbac1cad6e926162ec5c3455f5ce7b41485a3f69dea18189737d6b38cee474f8"
+    },
+    {
+      "path": ".openai/hosting.json",
+      "bytes": 104,
+      "sha256": "6e2f417fbad3ffea03baffd1a67601138dccbfe51103680375b5472c5c5d12d5"
+    },
+    {
+      "path": "README.md",
+      "bytes": 6445,
+      "sha256": "5403cf989cff5578e97fe3a3e23df1e046fb0109dca17d2641b7fd53f2986f74"
+    },
+    {
+      "path": "dist/app.mjs",
+      "bytes": 24872,
+      "sha256": "ce3941e9f296c1def6242c14da02ea0a9eab84b13403afe586442dbf66c39a2b"
+    },
+    {
+      "path": "dist/core.mjs",
+      "bytes": 8340,
+      "sha256": "9a24b90c42ca8a895965783808ea62175e6c9aa4227954f2f25636ac562035b8"
+    },
+    {
+      "path": "dist/index.html",
+      "bytes": 2659,
+      "sha256": "7f1680c6a97108786e2d4e548a2fa9e20b8137e0c5d2e78598e62e012161db4f"
+    },
+    {
+      "path": "dist/style.css",
+      "bytes": 22566,
+      "sha256": "9a7d84698378ef66b4f3c9a74db4964c8958dbb10f468fd2d83cbb5fbbc8d6df"
+    },
+    {
+      "path": "docs/ORIGINAL_README.md",
+      "bytes": 1175,
+      "sha256": "94e5728ef6052cd2812c85b7fd5a61dfcceca727c2fc71487317025a2c4e156b"
+    },
+    {
+      "path": "docs/PLATFORM_DEPENDENCIES.md",
+      "bytes": 2972,
+      "sha256": "c089a71b01b180eb9d1e1a577344ed6a206eaf54b260c6469ff729fbbceda1d1"
+    },
+    {
+      "path": "docs/SECURITY.md",
+      "bytes": 2720,
+      "sha256": "8e3b157e65052b015d91b1e2ef3fb769b40cea611b46a392267a5c67e8c0d685"
+    },
+    {
+      "path": "package.json",
+      "bytes": 328,
+      "sha256": "0c6b3c55e7af5df3794d804900a3b7db8777e375f6226cdcce46140b16ed20b5"
+    },
+    {
+      "path": "scripts/serve.mjs",
+      "bytes": 2631,
+      "sha256": "85d517167c2c34b5478b91effdceb42f12e0a787b7fe6f57e0f74fe4dc14bb01"
+    },
+    {
+      "path": "verify.mjs",
+      "bytes": 7600,
+      "sha256": "4e9c5d1fd0e711c43d57d77fc2d2b1743356774d55f25aec82523ed9fabf4aac"
+    }
+  ],
+  "manifestNote": "本清单不包含自身的摘要。原仓库 README 原文移至 docs/ORIGINAL_README.md，根 README 为本次导出说明。",
+  "checks": {
+    "existingFunctionalChecksPassed": 15,
+    "syntaxCheck": "passed",
+    "localHttpAssets": "passed",
+    "secretRuleCount": 10,
+    "secretFindings": 0,
+    "browserVisualQa": "not performed"
+  }
+}
